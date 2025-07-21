@@ -1,0 +1,47 @@
+id_user,kode_user,gelar_depan,nama_awal,nama_akhir,gelar_belakang,email,password,tempat_lahir,tanggal_lahir,alamat,id_jenis_kelamin
+USER001,muhdzakisaputrahaifat,-,Muhammad,Dzaki,-,muhdzakisaputrahaifat@gmail.com,Muhammad123,Luwu,7/28/2013,Jln. Haji Bora ,L
+USER002,asriyani123,-,Asriyani,-,-,asriyani123@gmail.com,Asriyani123,Sidrap,5/30/2012,Jln. Pasar Ikan ,P
+USER003,awaliaramadhani,-,Awalia,Ramadhani,-,awaliaramadhani@gmail.com,Awalia123,Gowa,11/22/2013,Jln. Bau Massepe Sulawesi Selatan ,P
+USER004,hasniadwilestari,-,Hasnia,Dwi Lestari,-,hasniadwilestari@gmail.com,Hasnia123,Sorowako,4/26/2014,Jln. Somba Opu,P
+USER005,fitrianinurdina,-,Fitriani,Nurdina,-,fitrianinurdina@gmail.com,Fitriani123,Pangkep,1/8/2012,Jln. Patimura ,P
+USER006,salwa123,-,Salwa,-,-,salwa123@gmail.com,Salwa123,Pare-Pare,10/5/2012,Jln. Makasau Andi ,P
+USER007,aqilahadil123,-,Aqilah,Adil,-,aqilahadil123@gmail.com,Aqilah123,Sidrap,2/16/2014,Jln. Somba Opu,P
+USER008,ahmadazizulakbar,-,Ahmad,Azizul Akbar,-,ahmadazizulakbar@gmail.com,Ahmad123,Masamba,9/2/2014,Jln. Haji Bau,L
+USER009,rinaamelia123,-,Rina,Amelia,-,rinaamelia123@gmail.com,Rina123,Maros,2/5/2013,Jln. Somba Opu,P
+USER010,reyhandanandarisal,-,Reyhand,Ananda,-,reyhandanandarisal@gmail.com,Reyhand123,Pare-Pare,3/3/2014,Jln. Selamet Riyadi ,L
+USER011,srihartatiamiruddin,-,Sri,Hartati,-,srihartatiamiruddin@gmail.com,Sri123,Sorowako,12/23/2013,Jln. Bau Massepe Sulawesi Selatan ,P
+USER012,andinurfadillaaziza,-,Andi,Nurfadilla,-,andinurfadillaaziza@gmail.com,Andi123,Bone,7/4/2014,Jln. Somba Opu,P
+USER013,ahmadfahrezi,-,Ahmad,Fahrezi,-,ahmadfahrezi@gmail.com,Ahmad123,Bone,11/25/2014,Jln. MH. Thamrin ,L
+USER014,sitisavaazalia,-,Siti,Sava,-,sitisavaazalia@gmail.com,Siti123,Masamba,12/14/2012,Jln. Somba Opu,P
+USER015,rizkykurniawans,-,Rizky,Kurniawan,-,rizkykurniawans@gmail.com,Rizky123,Palopo,2/11/2014,Jln. Selamet Riyadi ,L
+USER016,aryapamean,-,Arya,Pamean,-,aryapamean@gmail.com,Arya123,Sorowako,10/1/2014,Jln. Haji Bora ,L
+USER017,andimuhammadrayhan,-,Andi,Muhammad,-,andimuhammadrayhan@gmail.com,Andi123,Bone,3/17/2014,Jln. Inte Nurdin ,L
+USER018,muhammadluthfifauzi,-,Muhammad,Luthfi,-,muhammadluthfifauzi@gmail.com,Muhammad123,Luwu,11/5/2014,Jln. Selamet Riyadi ,L
+USER019,abdijayadisimare-mare,-,Abdi,Jayadi,-,abdijayadisimare-mare@gmail.com,Abdi123,Malili,10/21/2012,Jln. Selamet Riyadi ,L
+USER020,muhammadalimunsiri,-,Muhammad,Alimunsiri,-,muhammadalimunsiri@gmail.com,Muhammad123,Sidrap,11/13/2012,Jln. Bulo Gading ,L
+USER021,muhrifkydzaki,-,Muhammad,Rifky,-,muhrifkydzaki@gmail.com,Muhammad123,Sorowako,6/9/2014,Jln. Patimura ,L
+USER022,andidindanurislami,-,Andi,Dinda,-,andidindanurislami@gmail.com,Andi123,Makassar,9/26/2014,Jln. Selamet Riyadi ,P
+USER023,muhfathurrahman,-,Andi,Muhammad,-,muhfathurrahman@gmail.com,Andi123,Sidrap,5/23/2013,Jln. Inte Nurdin ,L
+USER024,agnesmichael,-,Agnes,Michael,-,agnesmichael@gmail.com,Agnes123,Pare-Pare,5/19/2013,Jln. Penghibur,P
+USER025,faturrahamdhan,-,Fatur,Rahamdhan,-,faturrahamdhan@gmail.com,Fatur123,Makassar,10/12/2014,Jln. RA. Kartini ,L
+USER026,hervanpratama,-,Hervan,Pratama,-,hervanpratama@gmail.com,Hervan123,Pangkep,9/29/2013,Jln. Haji Bau,L
+USER027,nurhikmafirlianti,-,Nur,Hikma,-,nurhikmafirlianti@gmail.com,Nur123,Malili,8/23/2012,Jln. Ranggong ,P
+USER028,muhharjiman,-,Muhammad,Harjiman,-,muhharjiman@gmail.com,Muhammad123,Gowa,3/26/2014,Jln. MH. Thamrin ,L
+USER029,andinuralvianti,-,Andi,Nuralvianti,-,andinuralvianti@gmail.com,Andi123,Bone,12/28/2012,Jln. Haji Bau,P
+USER030,fajarreskiyani,-,Fajar,Reskiyani,-,fajarreskiyani@gmail.com,Fajar123,Bone,5/27/2014,Jln. Osman Jafar,P
+USER031,aprianwahyudewanto,-,Aprian,Wahyu,-,aprianwahyudewanto@gmail.com,Aprian123,Palopo,8/1/2012,Jln. RA. Kartini ,L
+USER032,azroy1234,-,Azroy,-,-,azroy1234@gmail.com,Azroy123,Masamba,4/12/2012,Jln. Penghibur,L
+USER033,firaisyahintaniputri,-,Firaisyah,Intani,-,firaisyahintaniputri@gmail.com,Firaisyah123,Gowa,6/29/2014,Jln. Somba Opu,P
+USER034,nolasofian,-,Nola,Sofian,-,nolasofian@gmail.com,Nola123,Malili,9/17/2014,Jln. Bau Massepe Sulawesi Selatan ,P
+USER035,muhakmalhidayat,-,Muhammad,Akmal,-,muhakmalhidayat@gmail.com,Muhammad123,Luwu,7/3/2012,Jln. Penghibur,L
+USER036,muhrezazadillah,-,Muhammad,Reza,-,muhrezazadillah@gmail.com,Muhammad123,Malili,7/30/2013,Jln. Makasau Andi ,L
+USER037,ahmadsalman,-,Ahmad,Salman,-,ahmadsalman@gmail.com,Ahmad123,Palopo,6/6/2014,Jln. Balaikota Sulawesi Selatan ,L
+USER038,muhichsanjaya,-,Muhammad,Ichsan,-,muhichsanjaya@gmail.com,Muhammad123,Pangkep,11/23/2012,Jln. Kejao Lalido ,L
+USER039,nurhikmaarsyad,-,Nur,Hikma,-,nurhikmaarsyad@gmail.com,Nur123,Palopo,4/3/2013,Jln. Makasau Andi ,P
+USER040,fauziahsalzabillah,-,Fauziah,Salzabillah,-,fauziahsalzabillah@gmail.com,Fauziah123,Pangkep,9/14/2014,Jln. Somba Opu,P
+USER041,yudistiroadi,-,Yudistiro,Adi,-,yudistiroadi@gmail.com,Yudistiro123,Luwu,6/10/2013,Jln. Ranggong ,L
+USER042,amirulmukminin,-,Amirul,Mukminin,-,amirulmukminin@gmail.com,Amirul123,Pare-Pare,3/23/2014,Jln. MH. Thamrin ,L
+USER043,nurhafifahsultan,-,Nurhafifah,Sultan,-,nurhafifahsultan@gmail.com,Nurhafifah123,Sidrap,1/13/2012,Jln. Ranggong ,P
+USER044,stastiantisalmah,-,Sitti,Astianti,-,stastiantisalmah@gmail.com,Sitti123,Masamba,12/6/2013,Jln. MH. Thamrin ,P
+USER045,triwahyuniwulandari,-,Tri,Wahyuni,-,triwahyuniwulandari@gmail.com,Tri123,Pangkep,6/1/2013,Jln. Inte Nurdin ,P
+USER046,megapuspitatrianjani,-,Mega,Puspita,-,megapuspitatrianjani@gmail.com,Mega123,Pare-Pare,11/14/2012,Jln. Selamet Riyadi ,P
