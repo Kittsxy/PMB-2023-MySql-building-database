@@ -59,9 +59,9 @@ id_fakultas int not null,
 primary key (id_prodi)
 )
 
----```
+---
 
-## 📊 How to Use
+**📊 How to Use**
 1. Clone this repo or download the SQL file
 2. Import pmb_2023.sql into your MySQL server
 3. Run SQL queries using MySQL Workbench or phpMyAdmin
