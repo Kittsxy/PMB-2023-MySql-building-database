@@ -48,10 +48,10 @@ The entire project was built independently using MySQL and is aimed at showcasin
 
 ---
 
-## 📊 Sample Queries
+## 🔍 Sample Queries
 
-### 1. Create table
-sql
+```sql
+-- Create Table
 create	table program_studi(
 id_prodi varchar(50 not null,
 program_studi varchar(50) not null,
