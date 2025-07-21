@@ -58,7 +58,7 @@ program_studi varchar(50) not null,
 id_fakultas int not null,
 primary key (id_prodi)
 )
-
+```
 ---
 
 **📊 How to Use**
