@@ -59,7 +59,7 @@ id_fakultas int not null,
 primary key (id_prodi)
 )
 
----
+---```
 
 ## 📊 How to Use
 1. Clone this repo or download the SQL file
